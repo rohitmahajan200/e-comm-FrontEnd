@@ -1,4 +1,4 @@
 # ecom
-API's for E-commerce application.
+React frontEnd for e-commerce applications.
 <br>
 Author-Rohit Mahajan
